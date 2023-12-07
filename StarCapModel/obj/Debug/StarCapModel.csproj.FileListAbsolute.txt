@@ -1,0 +1,6 @@
+C:\Users\MelchioT\Documents\workVisualStudio\StarCapWeb\StarCapModel\bin\Debug\StarCapModel.dll
+C:\Users\MelchioT\Documents\workVisualStudio\StarCapWeb\StarCapModel\bin\Debug\StarCapModel.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\StarCapWeb\StarCapModel\obj\Debug\StarCapModel.csproj.AssemblyReference.cache
+C:\Users\MelchioT\Documents\workVisualStudio\StarCapWeb\StarCapModel\obj\Debug\StarCapModel.csproj.CoreCompileInputs.cache
+C:\Users\MelchioT\Documents\workVisualStudio\StarCapWeb\StarCapModel\obj\Debug\StarCapModel.dll
+C:\Users\MelchioT\Documents\workVisualStudio\StarCapWeb\StarCapModel\obj\Debug\StarCapModel.pdb
